@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: digitkaffe.no
 locale: en_US
-description: Describe your website here.
+description: Anna and Rachels spot on the internet
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://digitkaffe.no
 
 # Jekyll configuration
 
